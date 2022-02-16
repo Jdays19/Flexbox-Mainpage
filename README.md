@@ -4,4 +4,4 @@ This was a small project I worked at the Odin Project bootcamp. It is a main pag
 
 Demo of the page is listed below:
 
-<img src="./logo.png">
+<img src="./demo.png">
